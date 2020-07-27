@@ -1,7 +1,13 @@
 # Fomantic.Blazor
-Fomantic-UI is a community fork of Semantic-UI. This project is a wrapper around Fomantic-UI/Semantic-UI for the new Blazor framework in .NET Core 3.x.
+[Fomantic-UI](https://fomantic-ui.com/) is a community fork of [Semantic-UI](https://semantic-ui.com/). 
+This project - Fomantic.Blazor - is a wrapper around Fomantic-UI/Semantic-UI for the new Blazor framework built on top of .NET Core 3.x. It supports the server-side rendering engine as well as WebAssembly based rendering engine.
 
-# Current demo
+# Fomantic.Blazor - a Wodanaz project!
+Fomantic.Blazor was initiated to provide rich UI capabilities to another great project - Wodanaz. 
+
+Wodanaz will be THE most anonymous platform for communicating, sharing information and trading all sorts of goods (digital, services, physicals, currencies and coins). It will include storefronts and granular support for business grade product handling and a worldwide distributed stream based relational IPFS database. 
+
+# Current Fomantic.Blazor demo
 The current demo is feature incomplete and still got some bugs - but it is non the less working and I already use it for another project. This is a server-side demo of the Fomantic-Blazor framework:  https://92.204.49.117/
 
 # Current Component State
