@@ -1,12 +1,12 @@
 # Fomantic.Blazor
 Fomantic-UI is a community fork of Semantic-UI. This project is a wrapper around Fomantic-UI/Semantic-UI for the new Blazor framework in .NET Core 3.x.
 
-#Current demo
+# Current demo
 The current demo is feature incomplete and still got some bugs - but it is non the less working and I already use it for another project. This is a server-side demo of the Fomantic-Blazor framework:  https://92.204.49.117/
 
-#Current Component State
+# Current Component State
 
-##Elements
+## Elements
 
     [X] Button
     [X] Container
@@ -27,7 +27,7 @@ The current demo is feature incomplete and still got some bugs - but it is non t
     [X] Step
     [X] Text
 
-##Collections
+## Collections
 
     [X] Breadcrumb
     [X] Form
@@ -36,7 +36,7 @@ The current demo is feature incomplete and still got some bugs - but it is non t
     [X] Message
     [X] Table (Razor markup component)
 
-##Views
+## Views
 
     [X] Advertisement (Razor markup component)
     [X] Card (Razor markup component)
@@ -45,7 +45,7 @@ The current demo is feature incomplete and still got some bugs - but it is non t
     [X] Item (Razor markup component)
     [X] Statistic (Razor markup component)
 
-##Modules
+## Modules
 
     [X] Accordion (Razor markup component)
     [X] Calendar (Razor markup component, with minor problems)
@@ -66,7 +66,7 @@ The current demo is feature incomplete and still got some bugs - but it is non t
     [ ] Toast
     [ ] Transition
 
-##AddOns
+## ddOns
     [ ] Syntax Highlighter
     
     
